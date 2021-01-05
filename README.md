@@ -9,3 +9,7 @@ In this project, I apply patterns on some practical tasks.
 git clone https://github.com/OlegBen/designPatterns.git
 ```
 2. Run project on simulator or device
+
+### Ready patterns
+1. Singleton
+2. Factory
